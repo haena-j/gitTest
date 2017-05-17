@@ -1,0 +1,28 @@
+2017-05-17 15:32:09,419 [Worker-2] DEBUG class java.lang.Class - Starting Andmore Common Plugin...
+2017-05-17 15:32:09,420 [Worker-2] DEBUG class java.lang.Class - Andmore Common Plugin started.
+2017-05-17 15:32:09,421 [Worker-2] DEBUG class java.lang.Class - Starting Andmore Plugin...
+2017-05-17 15:32:09,424 [Worker-2] DEBUG class java.lang.Class - Andmore Plugin started.
+2017-05-17 15:32:10,673 [Worker-2] DEBUG class java.lang.Class - Starting Andmore Emulator Plugin...
+2017-05-17 15:32:10,721 [Worker-2] DEBUG class java.lang.Class - Andmore Emulator Plugin started.
+2017-05-17 15:32:10,777 [Worker-2] DEBUG class java.lang.Class - Starting Andmore Handset Plugin...
+2017-05-17 15:32:10,778 [Worker-2] DEBUG class java.lang.Class - Andmore Handset Plugin started.
+2017-05-17 15:32:10,791 [Worker-2] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin...
+2017-05-17 15:32:10,792 [Worker-2] DEBUG class java.lang.Class - Starting Andmore Remote Device Plugin started.
+2017-05-17 15:32:10,803 [Worker-2] DEBUG class java.lang.Class - Starting Andmore Device Services Plugin...
+2017-05-17 15:32:10,804 [Worker-2] DEBUG class java.lang.Class - Andmore Device Services Plugin started.
+2017-05-17 15:32:10,865 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: 5_4fwvga Status: OFF
+2017-05-17 15:32:10,875 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: 20160731 Status: OFF
+2017-05-17 15:32:10,876 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5_API_23_x86 Status: OFF
+2017-05-17 15:32:10,889 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: 5_4fwvga Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-05-17 15:32:10,890 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: 20160731 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-05-17 15:32:10,890 [Instance Event Manager] INFO  Studio for Android - The android device instance status was updated: Nexus_5_API_23_x86 Status: org.eclipse.andmore.android.emulator.status.notavailable
+2017-05-17 15:32:10,935 [Worker-2] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offline;name=Offline]
+2017-05-17 15:32:10,935 [Worker-2] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.handset.status.handsetonline;name=Online]
+2017-05-17 15:32:10,935 [Worker-2] INFO  Studio for Android - [Status: id=INACTIVE;name=INACTIVE]
+2017-05-17 15:32:10,935 [Worker-2] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.notavailable;name=Not available]
+2017-05-17 15:32:10,935 [Worker-2] INFO  Studio for Android - [Status: id=IDLE;name=IDLE]
+2017-05-17 15:32:10,935 [Worker-2] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.connected;name=Connected]
+2017-05-17 15:32:10,935 [Worker-2] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.remote.status.disconnected;name=Disconnected]
+2017-05-17 15:32:10,936 [Worker-2] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.online;name=Online]
+2017-05-17 15:32:10,936 [Worker-2] INFO  Studio for Android - [Status: id=OFF;name=OFF]
+2017-05-17 15:32:10,936 [Worker-2] INFO  Studio for Android - [Status: id=org.eclipse.andmore.android.emulator.status.offlineNoData;name=Offline (no user data)]
